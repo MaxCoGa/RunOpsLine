@@ -7,6 +7,7 @@
  1. cd runopsline
  2. npm i
  3. npm start
+ 4. http://localhost:3000
 
 ## build from scracht
 1. npx create-react-app runopsline --template typescript
